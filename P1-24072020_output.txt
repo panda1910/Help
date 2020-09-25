@@ -1,0 +1,2 @@
+Enter the chararcter: j
+It's a consonant
